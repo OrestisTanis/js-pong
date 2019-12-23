@@ -1,5 +1,5 @@
 # js-pong
-A simple JS game prototype - Pong
+A simple Pong game prototype in JavaScript
   
 **Objective**\
 Keep the ball in play by hitting it with the paddle.
