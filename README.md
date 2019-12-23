@@ -8,4 +8,4 @@ Keep the ball in play by hitting it with the paddle.
 Score increases after each successful hit.
   
 ## Live Demo
-On my [CodePen.io](https://codepen.io/orestis-tanis/pen/oNgWqLZ) account
+On my [CodePen](https://codepen.io/orestis-tanis/pen/oNgWqLZ) profile
