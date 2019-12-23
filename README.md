@@ -1,11 +1,11 @@
-# js-pong
+## js-pong
 A simple Pong game prototype in JavaScript.
   
-**Objective**\
+##Objective\
 Keep the ball in play by hitting it with the paddle.
   
-**Scoring**\
+##Scoring\
 Score increases after each successful hit.
   
-**Live Demo**\
+##Live Demo\
 [CodePen.io](https://codepen.io/orestis-tanis/pen/oNgWqLZ)
